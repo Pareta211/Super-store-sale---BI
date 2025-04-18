@@ -28,5 +28,6 @@ Create a basic dashboard showing:
 
 ## 📷 Screenshot
 
+![Screenshot 2025-04-18 203919](https://github.com/user-attachments/assets/5d6b3643-e429-4b34-8730-04078974b54c)
 
 ---
